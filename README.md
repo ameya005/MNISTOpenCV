@@ -7,7 +7,7 @@ Generates images of the handwritten digit dataset using OpenCV. Also generates t
 
 Usage : 		
 
-				./digitExtractor.cpp [] - extracts digits as images
+				./digitExtractor [] - extracts digits as images
 				options: train - unpacks the training dataset indirectory "Train"
 						 test - unpacks the test dataset in directory "Test"
 						 

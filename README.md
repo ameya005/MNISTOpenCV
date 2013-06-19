@@ -1,11 +1,11 @@
 MNIST Dataset Unpacker:
 =======================
 
-*bold*Requires OpenCV 2.1 or greater
+Requires OpenCV 2.1 or greater
 
 Generates images of the handwritten digit dataset using OpenCV. Also generates the labels for the testing and training dataset
 
-*bold*Usage : ./digitExtractor.cpp [] - extracts digits as images
+Usage : 		./digitExtractor.cpp [] - extracts digits as images
 				options: train - unpacks the training dataset indirectory "Train"
 						 test - unpacks the test dataset in directory "Test"
 						 
